@@ -9,5 +9,7 @@ public void js(){
     }
     public void jd(){
         System.out.println("f");
+        System.out.println("f");
+        System.out.println("f");
     }
 }
