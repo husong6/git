@@ -12,5 +12,7 @@ public void js(){
         System.out.println("f");
         System.out.println("f");
 System.out.println("d");
+        System.out.println("d");
+
     }
 }
